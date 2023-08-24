@@ -12,4 +12,3 @@ a = "mahesh"
 b = "suresh"
 c = "Devesh"
 
-print(f(" + "Hii",{a},{b}, "and",{c}"))
